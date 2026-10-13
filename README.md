@@ -54,36 +54,39 @@ Badges personalizadas que representam meus **12 cursos concluídos** nas institu
 <details>
 <summary><strong>🌐 Cisco — 5 cursos</strong></summary>
 
-| Curso | Período |
-|---|---|
-| Suporte e Segurança de Redes | 2026/1 |
-| Endereçamento de Rede e Solução Básica de Problemas | 2025/1 |
-| Fundamentos do Hardware do Computador | 2025/1 |
-| Começando com o Cisco Packet Tracer | 2025/1 |
-| Conceitos Básicos de Redes | 2025/1 |
+<div align="center">
+<img src="https://img.shields.io/static/v1?label=Suporte%20e%20Seguran%C3%A7a%20de%20Redes&amp;message=2026-1&amp;color=049FD9&amp;style=for-the-badge&amp;logo=cisco&amp;logoColor=white" alt="Suporte e Segurança de Redes — 2026/1" />
+<img src="https://img.shields.io/static/v1?label=Endere%C3%A7amento%20de%20Rede%20e%20Solu%C3%A7%C3%A3o%20B%C3%A1sica%20de%20Problemas&amp;message=2025-1&amp;color=049FD9&amp;style=for-the-badge&amp;logo=cisco&amp;logoColor=white" alt="Endereçamento de Rede e Solução Básica de Problemas — 2025/1" />
+<img src="https://img.shields.io/static/v1?label=Fundamentos%20do%20Hardware%20do%20Computador&amp;message=2025-1&amp;color=049FD9&amp;style=for-the-badge&amp;logo=cisco&amp;logoColor=white" alt="Fundamentos do Hardware do Computador — 2025/1" />
+<img src="https://img.shields.io/static/v1?label=Come%C3%A7ando%20com%20o%20Cisco%20Packet%20Tracer&amp;message=2025-1&amp;color=049FD9&amp;style=for-the-badge&amp;logo=cisco&amp;logoColor=white" alt="Começando com o Cisco Packet Tracer — 2025/1" />
+<img src="https://img.shields.io/static/v1?label=Conceitos%20B%C3%A1sicos%20de%20Redes&amp;message=2025-1&amp;color=049FD9&amp;style=for-the-badge&amp;logo=cisco&amp;logoColor=white" alt="Conceitos Básicos de Redes — 2025/1" />
+
+</div>
 
 </details>
 
 <details>
 <summary><strong>🔵 IBM — 6 cursos</strong></summary>
 
-| Curso | Período |
-|---|---|
-| Security Operations Center in Practice | 2026/2 |
-| Fundamentos da Inteligência Artificial | 2026/1 |
-| Fundamentos da Segurança Cibernética | 2025/2 |
-| Fundamentos do Design de Experiência do Usuário | 2025/2 |
-| Fundamentos da Tecnologia da Informação | 2025/2 |
-| Fundamentos do Desenvolvimento Web | 2025/2 |
+<div align="center">
+<img src="https://img.shields.io/static/v1?label=Security%20Operations%20Center%20in%20Practice&amp;message=2026-2&amp;color=1261FE&amp;style=for-the-badge&amp;logo=ibm&amp;logoColor=white" alt="Security Operations Center in Practice — 2026/2" />
+<img src="https://img.shields.io/static/v1?label=Fundamentos%20da%20Intelig%C3%AAncia%20Artificial&amp;message=2026-1&amp;color=1261FE&amp;style=for-the-badge&amp;logo=ibm&amp;logoColor=white" alt="Fundamentos da Inteligência Artificial — 2026/1" />
+<img src="https://img.shields.io/static/v1?label=Fundamentos%20da%20Seguran%C3%A7a%20Cibern%C3%A9tica&amp;message=2025-2&amp;color=1261FE&amp;style=for-the-badge&amp;logo=ibm&amp;logoColor=white" alt="Fundamentos da Segurança Cibernética — 2025/2" />
+<img src="https://img.shields.io/static/v1?label=Fundamentos%20do%20Design%20de%20Experi%C3%AAncia%20do%20Usu%C3%A1rio&amp;message=2025-2&amp;color=1261FE&amp;style=for-the-badge&amp;logo=ibm&amp;logoColor=white" alt="Fundamentos do Design de Experiência do Usuário — 2025/2" />
+<img src="https://img.shields.io/static/v1?label=Fundamentos%20da%20Tecnologia%20da%20Informa%C3%A7%C3%A3o&amp;message=2025-2&amp;color=1261FE&amp;style=for-the-badge&amp;logo=ibm&amp;logoColor=white" alt="Fundamentos da Tecnologia da Informação — 2025/2" />
+<img src="https://img.shields.io/static/v1?label=Fundamentos%20do%20Desenvolvimento%20Web&amp;message=2025-2&amp;color=1261FE&amp;style=for-the-badge&amp;logo=ibm&amp;logoColor=white" alt="Fundamentos do Desenvolvimento Web — 2025/2" />
+
+</div>
 
 </details>
 
 <details>
 <summary><strong>☁️ AWS — 1 curso</strong></summary>
 
-| Curso | Período |
-|---|---|
-| AWS Machine Learning Foundations | 2026/1 |
+<div align="center">
+<img src="https://img.shields.io/static/v1?label=AWS%20Machine%20Learning%20Foundations&amp;message=2026-1&amp;color=FF9900&amp;style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS Machine Learning Foundations — 2026/1" />
+
+</div>
 
 </details>
 
