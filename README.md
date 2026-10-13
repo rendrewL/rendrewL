@@ -1,3 +1,4 @@
+[README (1).md](https://github.com/user-attachments/files/33388136/README.1.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:273E91,100:7B2CBF&text=Endrew%20Rodrigues%20Lemos&fontColor=FFFFFF&fontSize=35&fontAlignY=38&desc=Desenvolvimento%20de%20Software%20%7C%20Tecnologia%20%7C%20Aprendizado%20Cont%C3%ADnuo&descAlignY=59&animation=fadeIn" width="100%" alt="Banner de apresentação" />
@@ -10,7 +11,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **Endrew Rodrigues Lemos**, estudante de **Tecnologia em Desenvolvimento de Software Multiplataforma na Fatec Registro** e atuo na área de **Tecnologia da Informação**.
+Sou **Endrew Rodrigues Lemos**, estudante de **Tecnologia em Desenvolvimento de Software Multiplataforma na Fatec Registro** e atuo na área de **Tecnologia da Informação em ambiente escolar**.
 
 Tenho interesse em desenvolvimento web, APIs, bancos de dados, interfaces e segurança da informação. Gosto de transformar ideias em soluções práticas e evoluir por meio de projetos e cursos.
 
@@ -37,13 +38,16 @@ Tenho interesse em desenvolvimento web, APIs, bancos de dados, interfaces e segu
 
 > 💡 Os projetos acima representam experiências de desenvolvimento. Links para os repositórios podem ser adicionados quando estiverem publicados e prontos para apresentação.
 
-## 🏅 Cursos concluídos
+## 🏅 Cursos e formações concluídas
+
+Badges personalizadas que representam meus **12 cursos concluídos** nas instituições Cisco, IBM e AWS.
+
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Cisco-5%20cursos-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco: cinco cursos" />
 <img src="https://img.shields.io/badge/IBM-6%20cursos-1261FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM: seis cursos" />
-<img src="https://img.shields.io/badge/AWS-1%20curso-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS: um curso" />
+<img src="https://img.shields.io/badge/AWS-Machine%20Learning-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS: um curso" />
 
 </div>
 
@@ -83,7 +87,7 @@ Tenho interesse em desenvolvimento web, APIs, bancos de dados, interfaces e segu
 
 </details>
 
-> 📜 Os cursos estão registrados como concluídos/aprovados nos comprovantes. Links individuais de validação podem ser adicionados quando disponíveis.
+> 📜 Estas são badges visuais personalizadas, não selos oficiais de certificação. Os cursos constam como concluídos/aprovados nos comprovantes; links de validação podem ser adicionados futuramente.
 
 ## 📊 Atividade no GitHub
 
@@ -107,6 +111,3 @@ Tenho interesse em desenvolvimento web, APIs, bancos de dados, interfaces e segu
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:0D1117,50:273E91,100:7B2CBF" width="100%" alt="Rodapé decorativo" />
-
-- ⚡ Fun fact: ...
--->
