@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **Endrew Rodrigues Lemos**, estudante de **Tecnologia em Desenvolvimento de Software Multiplataforma na Fatec Registro** e atuo na área de **Tecnologia da Informação em ambiente escolar**.
+Sou **Endrew Rodrigues Lemos**, estudante de **Tecnologia em Desenvolvimento de Software Multiplataforma na Fatec Registro** e atuo na área de **Tecnologia da Informação**.
 
 Tenho interesse em desenvolvimento web, APIs, bancos de dados, interfaces e segurança da informação. Gosto de transformar ideias em soluções práticas e evoluir por meio de projetos e cursos.
 
