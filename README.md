@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/33388136/README.1.md)
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:273E91,100:7B2CBF&text=Endrew%20Rodrigues%20Lemos&fontColor=FFFFFF&fontSize=35&fontAlignY=38&desc=Desenvolvimento%20de%20Software%20%7C%20Tecnologia%20%7C%20Aprendizado%20Cont%C3%ADnuo&descAlignY=59&animation=fadeIn" width="100%" alt="Banner de apresentação" />
